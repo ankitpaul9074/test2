@@ -1,0 +1,116 @@
+{
+  "pubg":{      
+	   "vehicles":[
+		             {               
+									"ID":"1",
+									 "NAME":"Motorcycle with sidecar",
+									 "IMG_URL":"https://i.redd.it/6a28r1h42ac21.jpg",
+									 "VIDEO_URL":"https://www.youtube.com/watch?v=BUku9sheYUc",
+									 "DESCRIPTION":"A trials-style motorbike equipped with a side-car. It seats a driver and two passengers and is one of the fastest vehicle in the game, currently. ... It has very low fuel consumption, at least half the current rate of the other vehicles in-game",
+									 "DETAIL":{
+									          "Max Speed":"136",
+									          "Human capacity":"3",
+									          "Health":"1,048"
+									          
+									 }
+									 
+									  },
+		
+		
+		             {               
+									"ID":"2",
+									 "NAME":"Motorcycle without sidecar",
+									 "IMG_URL":"https://cdn.pastemagazine.com/www/articles/pubg%20vehicle%20main.jpg",
+									 "VIDEO_URL":"https://www.youtube.com/watch?v=IgQJN0cSXHw",
+									 "DESCRIPTION":"This vehicle is death on wheels, and not for your enemies. PUBG does not have the most stable physics at the best of times, so the additional weight of a sidecar truly throws your ability to navigate this thing all out of whack. Imagine, for a moment, flying through the air with the greatest of ease. You begin to tilt sideways. The sidecar, filled with your best buddy, tends toward the ground. You both start screaming. That’s a summary of every single time I have ever attempted to use this vehicle. Just say no",
+									 "DETAIL":{
+									          "Max Speed":"150",
+									          "Human capacity":"2",
+									          "Health":"1,048"
+									          
+									 }
+									 
+									  },
+		
+		
+		             {               
+									"ID":"3",
+									 "NAME":"Dacia 1300",
+									 "IMG_URL":"https://cdn.pastemagazine.com/www/articles/pubg%20dacia.jpg",
+									 "VIDEO_URL":"https://www.youtube.com/watch?v=NaBupTn4KaI",
+									 "DESCRIPTION":"This is a family car, and when you’re in it you have to abide by family rules. You have to be polite. No swears. You must always be driving at top speed. You must keep the Kar98 inside the vehicle at all times, but naughty shottys may dangle. This vehicle is the sweet spot of speed, maneuverability, and possible cover once you have to tactically ditch it. It can make big jumps, smash into dudes, and generally do all of the work that you need it to. It’s the hammer of PUBG and everything else is a nail. Use this vehicle all the time please.",
+									 "DETAIL":{
+									          "Max Speed":"117",
+									          "Human capacity":"4",
+									          "Health":"1,869"
+									          
+									 }
+									 
+									  },
+									  
+					 {               
+									"ID":"4",
+									 "NAME":"UAZ (Open Top)",
+									 "IMG_URL":"https://gamepedia.cursecdn.com/battlegrounds_gamepedia_en/b/bc/Uaz-open-top.png?version=4bb7c45245eee144c4c85f82baf1dcd3",
+									 "VIDEO_URL":"https://www.youtube.com/watch?v=KK0wMtcHcvw",
+									 "DESCRIPTION":"The best thing about the open top UAZ in PUBG is that you can accurately recreate that scene, or basically any driving scene you want, from Clueless. It’s a big, bossy car that does a vroom vroom all over the murder island map of Erangel. Sadly, the problem that plagues the open top UAZ that did not effect Cher in any way is that PUBG is a game that features many people firing guns at you. There is only one gun-related scene in Clueless. So while Cher was safe and having a fun and fancy free time in her open top jeep in the film, in PUBG the open top often leads to the driver getting shot. So there’s that",
+									 "DETAIL":{
+									          "Max Speed":"94",
+									          "Human capacity":"5",
+									          "Health":"2,060"
+									          
+									 }
+									 
+									  },
+
+                     {               
+									"ID":"5",
+									 "NAME":"Pickup",
+									 "IMG_URL":"https://cdn.pastemagazine.com/www/articles/pubg%20pickup.jpg",
+									 "VIDEO_URL":"https://www.youtube.com/watch?v=cCPcdIt-S80",
+									 "DESCRIPTION":"It’s hard to be mad at a pickup truck. There’s days when I’m out there on the long road with my Ford F350, haulin’ wood and coal to the worksite, and I think about what my friends in Miramar might be doing with a truck as manly as the one I’m driving. I think about that virtual pickup as I lift boulders and place them, gently, into the treated plastic scuff-free bed of my freedom transportation machine. I wipe the sweat of my brow as I check the oil on my luscious horsepower holder, and I think about my friends, loaded for bear and ready to win a chicken dinner. That’s what this pickup means to me, and that’s why I should win this essay contest",
+									 "DETAIL":{
+									          "Max Speed":"99",
+									          "Human capacity":"5",
+									          "Health":"2,060"
+									          
+									 }
+									 
+									  },
+
+                     {               
+									"ID":"6",
+									 "NAME":"UAZ (Closed Top Steel)",
+									 "IMG_URL":"https://cdn.pastemagazine.com/www/articles/pubg%20bronco.jpg",
+									 "VIDEO_URL":"https://www.youtube.com/watch?v=f-WcV8Lu9L0",
+									 "DESCRIPTION":"This vehicle is your classic wartime people mover. You can get inside of it and drive around with all of your closest friends, and the lack of a completely open top means that you’re more likely to stay safe and sound than you are to get eaten alive by the nightmare bullets that come screaming from sniper positions on hilltops all around you. This vehicle can be a little bit of a bully, knocking enemy cars away and providing some cover against gunfire, but it’s also very slow. It’s very easy for a Dacia to roll up on you and shotgun you through the window.",
+									 "DETAIL":{
+									          "Max Speed":"99",
+									          "Human capacity":"5",
+									          "Health":"2,060"
+									          
+									 }
+									 
+									  },
+
+                     {               
+									"ID":"7",
+									 "NAME":"Buggy",
+									 "IMG_URL":"https://cdn.pastemagazine.com/www/articles/pubg%20buggy.jpg",
+									 "VIDEO_URL":"https://www.youtube.com/watch?v=5k4zLuRzTk8",
+									 "DESCRIPTION":"Conceptually, the buggy is a wonderful vehicle. You get to sit in a little Mad Max cockpit and drive this thing that sounds like a go-kart all around the wide world. It’s more difficult to hit the operator of the buggy than you might think, so this is generally a pretty safe and cool little vehicle. That is, unless you have a buddy. If so, they are going to be stuck in this weird bucket seat, a veritable crow’s nest from which they launch their assault on your enemies. And from that position, they’re going to eat a lot of bullets. No good.",
+									 "DETAIL":{
+									          "Max Speed":"93",
+									          "Human capacity":"6",
+									          "Health":"1,606"
+									          
+									 }
+									 
+									  }									  
+		
+		]			
+  
+        }
+  
+
+}

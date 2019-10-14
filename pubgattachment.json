@@ -1,0 +1,53 @@
+{
+  "pubg":{
+         
+       "attachments":[
+		              {"ID":"1",
+					  "NAME":"Red Dot Sight",
+					  "IMG_URL":"https://gamepedia.cursecdn.com/battlegrounds_gamepedia_en/b/bc/Icon_attach_Upper_DotSight_01.png?version=38f536b538cf7ea9fd5d31d970882e49",
+					  "VIDEO_URL":"https://www.youtube.com/watch?v=FBHMOZiuQGI",
+					  "DESCRIPTION":"The Red Dot Sight is based on the Sightmark Sure Shot reflex sight. When mounted on pistols, it takes on the appearance of a Trijicon RMR reflex sight. In PUBG Mobile, the Red Dot Sight was referred to as the Mira Red Dot Sight until the 0.6.0 update"
+                              },
+		
+		               {"ID":"2",
+					  "NAME":"Holographic Sight",
+					  "IMG_URL":"https://gamepedia.cursecdn.com/battlegrounds_gamepedia_en/2/2c/Icon_attach_Upper_Holosight.png?version=8f8e58d318ae685ffe15cf4e50662224",
+					  "VIDEO_URL":"https://www.youtube.com/watch?v=NgaVZnWrYYU",
+					  "DESCRIPTION":"The Holographic Sight reduces the time needed when switching to and from your ADS - making it faster to accurately shoot enemies as soon as you spot them."
+                              },
+		
+		               {"ID":"3",
+					  "NAME":"2x Aimpoint Scope",
+					  "IMG_URL":"https://gamepedia.cursecdn.com/battlegrounds_gamepedia_en/a/a8/Icon_attach_Upper_Aimpoint2X_01.png?version=2a1abeef4e5c5d9e44ce8cf2b280cfa6",
+					  "VIDEO_URL":"https://www.youtube.com/watch?v=4hb3Q6ykzdg",
+					  "DESCRIPTION":"this scope appears mediocre in regard to its zoom power and reticle, the reticle allows the user an improvised method of rangefinding - a standing person 100 meters away will fit perfectly between the top and bottom of the outer circle, and a standing person 200 meters away will fit between the center dot and the outer circle. At 300 meters, the width of a standing person will be obscured by the center dot. Keeping this in mind, aim can then be adjusted for whichever range the target is at to deal precision shots and as most engagements typically take place within 300 meters, the usefulness of this scope is often underestimated"
+                              },
+		
+		               {"ID":"4",
+					  "NAME":"4x ACOG Scope",
+					  "IMG_URL":"https://gamepedia.cursecdn.com/battlegrounds_gamepedia_en/6/61/Icon_attach_Upper_ACOG_01.png?version=5795dce180c8391cac86a2cc17992055",
+					  "VIDEO_URL":"https://www.youtube.com/watch?v=_Mwjt_aIhtI",
+					  "DESCRIPTION":"The ACOG scope allows for the user to engage targets at medium to long ranges. With a built in rangefinder, and its 4x zoom, the ACOG scope is one of the most useful attachments a player can come across, as such it is highly recommended to take it, even if you do not have a weapon that can accept it"
+                              },
+		
+		               {"ID":"5",
+					  "NAME":"8x CQBSS Scope",
+					  "IMG_URL":"https://gamepedia.cursecdn.com/battlegrounds_gamepedia_en/8/8d/Icon_attach_Upper_CQBSS.png?version=9b5e5a2b98be43459b2453867f401543",
+					  "VIDEO_URL":"https://www.youtube.com/watch?v=w74JPyGE_N0",
+					  "DESCRIPTION":"This variable power scope is a must-have for anyone wishing to engage targets at long ranges. It is ideal for weapons with high muzzle velocities as compensation of gravity and bullet speed is not required as much compared to weapons with slower bullet velocities. Scope sway may be an issue at further ranges, therefore it is recommended to hold one's breath before firing."
+                              },
+							  
+						{"ID":"6",
+					  "NAME":"15x PM II Scope",
+					  "IMG_URL":"https://gamepedia.cursecdn.com/battlegrounds_gamepedia_en/1/1c/Icon_attach_Upper_PM2_01.png?version=42d8497928abd9221f8ff4c80c92fae5",
+					  "VIDEO_URL":"https://www.youtube.com/watch?v=t4XtStJau-8",
+					  "DESCRIPTION":" The strong zoom also necessitates keeping a spare lower power sight in the inventory for closer range encounters.
+
+                            It should be noted that while the name of this attachment would imply 15x magnification, because it magnifies the field of view down to 6.67°, this means that with the minimum field of view setting of 80°, the magnification power of this optic is actually closer to 12x"
+                              }	  
+							  
+		            ]
+  
+  
+  }
+  }
